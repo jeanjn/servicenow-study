@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="25adb8f0db9200104426f28239961905" sys_domain="global" table="x_442423_my_custom_custom_people" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-09 19:44:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f1adb8f0db9200104426f28239961907</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_442423_my_custom_custom_people" name="x_442423_my_custom_custom_people" sys_domain="global" view="21adb8f0db9200104426f28239961900">25adb8f0db9200104426f28239961905</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_442423_my_custom_custom_people" sys_domain="global" view="21adb8f0db9200104426f28239961900">6dadb8f0db9200104426f28239961903</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-09 19:44:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-09 19:44:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bdadb8f0db9200104426f28239961907</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_442423_my_custom_custom_people" name="x_442423_my_custom_custom_people" sys_domain="global" view="21adb8f0db9200104426f28239961900">25adb8f0db9200104426f28239961905</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_442423_my_custom_custom_people" sys_domain="global" view="21adb8f0db9200104426f28239961900">a5adb8f0db9200104426f28239961904</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-09 19:44:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_442423_my_custom_custom_people</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-09 19:44:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>25adb8f0db9200104426f28239961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_442423_my_custom_custom_people</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="My Custom App" source="x_442423_my_custom">d23638b4db5200104426f282399619f4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My Custom App">d23638b4db5200104426f282399619f4</sys_scope>
+            <sys_update_name>sys_ui_form_sections_25adb8f0db9200104426f28239961905</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-09 19:44:32</sys_updated_on>
+            <sys_user/>
+            <view display_value="Read only" name="Read_only">21adb8f0db9200104426f28239961900</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

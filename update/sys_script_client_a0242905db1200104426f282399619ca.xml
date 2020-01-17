@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>ativo</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>script one</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+    //Type appropriate comment here, and begin script below
+    g_form.setValue('nome', '7987431321')
+	//alert('Parabéns ' + g_user.getFullName() + ', muito bom')
+
+	jslog('Has hole?' + g_user.hasRoleExactly('client_script_admin'));
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-10 17:15:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a0242905db1200104426f282399619ca</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>script one</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="My Custom App" source="x_442423_my_custom">d23638b4db5200104426f282399619f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Custom App">d23638b4db5200104426f282399619f4</sys_scope>
+        <sys_update_name>sys_script_client_a0242905db1200104426f282399619ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-17 19:13:40</sys_updated_on>
+        <table>x_442423_my_custom_custom_people</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Custom People" max_length="40" name="x_442423_my_custom_custom_people" type="collection">
+        <element label="Ativo" max_length="40" name="ativo" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="100" name="email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Nome" max_length="100" name="nome" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="New URL" max_length="1024" name="u_url_1" type="url"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Who are u" max_length="40" name="u_whoareyou" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Me" sequence="0" value="me"/>
+                <element inactive_on_update="false" label="Other" sequence="1" value="other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="you" max_length="40" name="u_you" type="string"/>
+    </element>
+</database>

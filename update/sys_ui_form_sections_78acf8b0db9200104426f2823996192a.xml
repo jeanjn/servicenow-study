@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="78acf8b0db9200104426f2823996192a" sys_domain="global" table="x_442423_my_custom_custom_people" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-09 19:40:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f0acf8b0db9200104426f282399619b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_442423_my_custom_custom_people" name="x_442423_my_custom_custom_people" sys_domain="global" view="Default view">78acf8b0db9200104426f2823996192a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_442423_my_custom_custom_people" sys_domain="global" view="Default view">872ab030db9200104426f282399619ad</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-09 19:40:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_442423_my_custom_custom_people</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-09 19:40:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>78acf8b0db9200104426f2823996192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_442423_my_custom_custom_people</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="My Custom App" source="x_442423_my_custom">d23638b4db5200104426f282399619f4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My Custom App">d23638b4db5200104426f282399619f4</sys_scope>
+            <sys_update_name>sys_ui_form_sections_78acf8b0db9200104426f2823996192a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-09 19:40:05</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
